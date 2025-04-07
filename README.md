@@ -1,2 +1,2 @@
 # minecraft-command-generator
-A program to generate commands in Minecraft.
+A program of generating commands in Minecraft.
